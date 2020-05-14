@@ -1,1 +1,1 @@
-# project-day1-day2
+# practice-day1-day2
